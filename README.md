@@ -19,5 +19,5 @@ Client-server model where multiple clients connect to a server.
 1. Run server.py
 2. Run client.py
 
-## Output
-(Add screenshots here)
+
+
